@@ -36,3 +36,5 @@ npm-debug.log
 /_pgdata
 
 .DS_Store
+
+assets
