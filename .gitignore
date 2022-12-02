@@ -34,3 +34,5 @@ npm-debug.log
 
 # Ignore docker related files
 /_pgdata
+
+.DS_Store
